@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Mono&display=swap');
+
+html, body {
+    padding: 15px;
+    margin-top: -10px;
+}
+
+h1, h2{
+    font-family: 'Red Hat Mono', monospace;
+}
+
+p {
+    font-family: 'Red Hat Mono', monospace;
+}
