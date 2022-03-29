@@ -12,3 +12,14 @@ h1, h2{
 p {
     font-family: 'Red Hat Mono', monospace;
 }
+
+summary {
+    font-family: 'Red Hat Mono', monospace;
+    font-size: 110%;
+}
+
+summary p {
+    font-size: 80%;
+    margin: 5;
+    margin-bottom: 5px;
+}
